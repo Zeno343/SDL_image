@@ -56,3 +56,8 @@ Release
 *.suo
 *.sdf
 Xcode/build.xcconfig
+
+.zig-cache/
+zig-out/
+.direnv/
+.envrc
